@@ -1,8 +1,9 @@
-import { Palette, build, Options } from 'react-native-better-styles'
+import { Palette, build, Options, Multipliers } from 'react-native-better-styles'
 import { Dimensions } from 'react-native';
 const { width } = Dimensions.get('window')
  
 const palette: Palette = {
+  t: 'transparent',
   grey: '#8a949d',
   white: '#ffffff',
   black: '#000000',
