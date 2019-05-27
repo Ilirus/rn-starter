@@ -7,13 +7,26 @@ import { SingInScreen } from './screens/auth/sign-in/sign-in';
 
 useScreens();
 
-const AppNavigator = createStackNavigator({
-  Home: {
-    screen: WelcomeScreen
+const AppNavigator = createStackNavigator(
+  {
+    Home: {
+      screen: WelcomeScreen
+    },
+    SingIn: {
+      screen: SingInScreen,
+      path: 'sing-in',
+    },
   },
-  SingIn: {
-    screen: SingInScreen
+  {
+    initialRouteName: "Home"
   }
-});
+);
 
-export default createAppContainer(AppNavigator);
+const AppContainer = createAppContainer(AppNavigator);
+
+const prefix = 'cogdex://';
+export default class App extends React.Component {
+  render() {
+    return <AppContainer uriPrefix={prefix}/>;
+  }
+}

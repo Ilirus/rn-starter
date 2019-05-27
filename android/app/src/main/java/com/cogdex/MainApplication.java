@@ -1,4 +1,4 @@
-package com.rnstarter;
+package com.cogdex;
 
 import android.app.Application;
 

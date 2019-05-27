@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "RNStarter-tvOS.app"
-               BlueprintName = "RNStarter-tvOS"
-               ReferencedContainer = "container:RNStarter.xcodeproj">
+               BuildableName = "Cogdex-tvOS.app"
+               BlueprintName = "Cogdex-tvOS"
+               ReferencedContainer = "container:Cogdex.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RNStarter-tvOSTests.xctest"
-               BlueprintName = "RNStarter-tvOSTests"
-               ReferencedContainer = "container:RNStarter.xcodeproj">
+               BuildableName = "Cogdex-tvOSTests.xctest"
+               BlueprintName = "Cogdex-tvOSTests"
+               ReferencedContainer = "container:Cogdex.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RNStarter-tvOSTests.xctest"
-               BlueprintName = "RNStarter-tvOSTests"
-               ReferencedContainer = "container:RNStarter.xcodeproj">
+               BuildableName = "Cogdex-tvOSTests.xctest"
+               BlueprintName = "Cogdex-tvOSTests"
+               ReferencedContainer = "container:Cogdex.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNStarter-tvOS.app"
-            BlueprintName = "RNStarter-tvOS"
-            ReferencedContainer = "container:RNStarter.xcodeproj">
+            BuildableName = "Cogdex-tvOS.app"
+            BlueprintName = "Cogdex-tvOS"
+            ReferencedContainer = "container:Cogdex.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNStarter-tvOS.app"
-            BlueprintName = "RNStarter-tvOS"
-            ReferencedContainer = "container:RNStarter.xcodeproj">
+            BuildableName = "Cogdex-tvOS.app"
+            BlueprintName = "Cogdex-tvOS"
+            ReferencedContainer = "container:Cogdex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNStarter-tvOS.app"
-            BlueprintName = "RNStarter-tvOS"
-            ReferencedContainer = "container:RNStarter.xcodeproj">
+            BuildableName = "Cogdex-tvOS.app"
+            BlueprintName = "Cogdex-tvOS"
+            ReferencedContainer = "container:Cogdex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
